@@ -12,30 +12,19 @@
 # Scena 3 - Stvaranje kombinatora
 
 ![scena 3-1](./s3_1.png)
-![scena 3-2](./s2_2.png)
+![scena 3-2](./s3_2.png)
 
 # Scena 4 - Predstavljanje kombinatora
 
-_2/3 osnovna kombinatora se predstave, i prikaže se njihova funkcija_
-
-PRIMJER:
-
-**Kombinator Ida**:<br/>
-"Ja sam Ida! Ja uvijek vratim ono što dobijem."
-
-_Broj 3 prolazi kroz Idu s lijeva i izlazi nepromjenjen s desna._
+![scena 4-1](./s4_1.png)
+![scena 4-2](./s4_2.png)
 
 # Scena 5 - Mudrac vidi red
 
-_Mudrac kima glavom._
-
-**Mudrac**:<br/>
-"U redu. Sada je lagano odrediti tko gdje ide."
-
-_Kombinatori se brzo poslože._
+![scena 5-1](./s6_2.png)
+![scena 5-2](./s5_1.png)
 
 # Scena 6 - Red iz kaosa
 
-_Prikaz sretnih brojeva kako prolaze kroz složeni izraz._
-
-_Mudrac se nasmije._
+![scena 6-1](./s6_1.png)
+![scena 6-2](./s6_2.png)
